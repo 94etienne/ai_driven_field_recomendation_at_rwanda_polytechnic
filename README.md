@@ -74,7 +74,7 @@ Allows real-time predictions with:
 
 ### 1. Clone the repository  
 ```bash
-[git clone https://github.com/your-username/field-recommendation-system.git](https://github.com/94etienne/ai_driven_field_recomendation_at_rp.git)
+[git clone https://github.com/your-username/field-recommendation-system.git](https://github.com/94etienne/ai_driven_field_recomendation_at_rwanda_polytechnic.git)](https://github.com/94etienne/ai_driven_field_recomendation_at_rwanda_polytechnic.git)
 cd field-recommendation-system
 ```
 
