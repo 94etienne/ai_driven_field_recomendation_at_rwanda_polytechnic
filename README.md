@@ -56,7 +56,7 @@ Allows real-time predictions with:
 
 ```
 .
-├── main.py                     # Full ML pipeline and analysis
+├── ai_field_recommendation_at_rp.ipynb                     # Full ML pipeline and analysis
 ├── results/
 │   ├── field_recommendation_model.h5       # Saved best model
 │   ├── field_recommendation_model.pkl
@@ -65,7 +65,7 @@ Allows real-time predictions with:
 │   ├── subject_columns.pkl
 │   └── *.pkl (all transformers)
 └── dataset/
-    └── rp_merged_dataset_cleaned.json
+    └── Not Shared
 ```
 
 ---
